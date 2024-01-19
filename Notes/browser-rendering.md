@@ -25,6 +25,8 @@
     - 이미지 Preloading
 - React.js와 Vue.js의 렌더링
 
-  -- WIP --
+
+- [검색창에 www.google.com을 입력하면 벌어지는 일?](https://devdongwoo.notion.site/8eee59ab638e4dbbb7ca175bc7aa0752?pvs=4)
+
 
 ---
